@@ -1,6 +1,6 @@
 # FinalProject
 This is my Final Microsoft Future Ready Talent Project
-#azure link https://purple-river-0e92e5410.3.azurestaticapps.net/
+
 # Just Not A Engineer
 This repository contains the codebase for our Just Not A Engineer, a platform designed to empower educators, students, and parents in the pursuit of knowledge. In this README, you'll find essential information on how to set up and deploy this project using Microsoft Azure services, specifically Static Web Apps and Azure App Service.
 
